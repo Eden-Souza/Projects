@@ -12,6 +12,9 @@ Este projeto contém um dashboard desenvolvido em Excel para o controle de custo
 2. Explore os gráficos para visualizar as informações financeiras e de desempenho.
 3. Você pode filtrar os dados conforme necessário para obter insights específicos.
 
+## Tecnologias Utilizadas
+- **Microsoft Excel**: Utilizado para a organização dos dados, criação de tabelas dinâmicas e desenvolvimento de dashboards interativos.
+
 ## Informações Contidas
 
 O arquivo contém:
@@ -20,4 +23,6 @@ O arquivo contém:
 - Quais serão os gasto que serão realizado no ano de 2024 junto com o que já foi compensando;
 - Custos agregados por meio de build up para ter uma visão macro e assim ver qual será a previsão de custos para esse cunjunto de equipamentos;
 - Tendo um controle de formulario para navegar entre os custos anuais.
+
+Este projeto é parte do meu portfólio e demonstra habilidades em análise de dados financeiros,  uso de tabelas dinâmicas e criação de dashboards no Excel para a gestão de custos empresariais. Utilizando os gráficos build up, barras horizontais e verticais, além de prenchimento de gráfico, aplicando também controle de formulário
 
