@@ -32,7 +32,7 @@ Com estas ferramentas, espera-se melhorar significativamente o controle sobre os
 3. Você pode filtrar os dados conforme necessário para obter insights específicos.
 
 ## Objetivo
-Este dashboard foi criado para facilitar o controle e a gestão de custos dentro de uma organização,  oferecendo insights valiosos para a n\ tomada de decisão e ajudando a identificar áreas de maior gasto ou oportunidades para otimização financeira.
+Este dashboard foi criado para facilitar o controle e a gestão de custos dentro de uma organização,  oferecendo insights valiosos para a tomada de decisão e ajudando a identificar áreas de maior gasto ou oportunidades para otimização financeira.
 
 ## Tecnologias Utilizadas
 - **Microsoft Excel**: Utilizado para a organização dos dados, criação de tabelas dinâmicas e desenvolvimento de dashboards interativos.
