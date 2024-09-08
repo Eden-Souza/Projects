@@ -29,4 +29,4 @@ O arquivo contém:
 - Custos agregados por meio de build up para ter uma visão macro e visualizr como o custo semana e formado pela agregação de cada natureza de valores;
 - Tendo um controle de formulario para navegar entre os custos semanais.
 
-Este projeto é parte do meu portfólio e demonstra habilidades em análise de dados financeiros,  uso de tabelas dinâmicas e criação de dashboards no Excel para a gestão de custos empresariais.
+Este projeto é parte do meu portfólio e demonstra habilidades em análise de dados financeiros,  uso de tabelas dinâmicas e criação de dashboards no Excel para a gestão de custos empresariais. Utilizando os gráficos de barras horizontais e build_up
