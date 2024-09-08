@@ -37,7 +37,7 @@ Com estas soluções, espera-se melhorar substancialmente o controle sobre os cu
 ## Informações Contidas
 
 O arquivo contém:
-- Acompanhmento de custos por equipamento já realizado, com o objetivo de ver quais foram os que geraram mais custos;
+- Acompanhamento de custos por equipamento já realizado, com o objetivo de ver quais foram os que geraram mais custos;
 - Capex realizado investimento por meio capex realizado no ano de 2023 e 2024;
 - Quais serão os gasto que serão realizado no ano de 2024 junto com o que já foi compensando;
 - Custos agregados por meio de build up para ter uma visão macro e assim ver qual será a previsão de custos para esse cunjunto de equipamentos;
