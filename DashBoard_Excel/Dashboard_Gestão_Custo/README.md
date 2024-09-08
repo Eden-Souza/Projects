@@ -7,6 +7,23 @@ Este projeto consiste em um dashboard de gestão de custos desenvolvido em Excel
 - Comparação entre custos planejados e realizados.
 - Visualização gráfica para facilitar a tomada de decisões.
 
+## Contexto do Problema
+O objetivo deste projeto é abordar a falta de visibilidade e controle sobre os custos operacionais de diferentes setores de uma empresa. Com a diversidade de despesas envolvendo materiais, serviços externos e locações, os gestores enfrentam desafios para identificar áreas de maior gasto e oportunidades de otimização financeira.
+
+**Problemas Identificados:**
+- **Falta de Centralização:** Os dados de custos estão espalhados dificultando a análise integrada.
+- **Visão Limitada:** Sem ferramentas adequadas, os gestores têm dificuldade em obter uma visão clara e consolidada dos custos por setor e categoria.
+- **Incapacidade de Identificar Tendências:** Sem um acompanhamento regular e detalhado, é difícil detectar padrões de aumento ou redução de custos ao longo do tempo.
+
+**Soluções Propostas:**
+Este projeto visa resolver esses problemas através da criação de um dashboard interativo no Excel que permite:
+- **Centralizar os Dados:** Consolidando todas as informações de custos em uma única fonte de verdade.
+- **Facilitar a Análise:** Utilizando tabelas dinâmicas para resumir e explorar dados financeiros de forma eficiente.
+- **Visualizar Indicadores-Chave:** Dashboards para oferecer uma visão clara e rápida dos custos operacionais.
+- **Automatizar Relatórios:** Controles de formulário para permitir a personalização das visualizações e relatórios, adaptando-se às necessidades específicas dos gestores.
+
+Com estas ferramentas, espera-se melhorar significativamente o controle sobre os custos, fornecer insights acionáveis e apoiar decisões baseadas em dados concretos.
+
 
 ## Como utilizar o dashboard
 
