@@ -9,7 +9,7 @@ Este projeto apresenta uma análise de cursos superiores e institutos utilizando
 Analisar se existe um padrão nos cursos mais procurados que possa prever comportamentos futuros de oferta e demanda.
 
 **Análise:**  
-Os resultados mostraram que, embora o curso de Administração tenha um alto número de vagas, ingressantes e concluintes, há uma redução gradual na oferta dessas vagas. Contrariamente, o número de concluintes está aumentando, o que pode indicar uma potencial falta de vagas para esses profissionais no futuro.
+Os resultados mostraram que, embora ocorra variações entre os cursos baseado nos três indicadores escolhidos, foi observado que ocorre a repetição de alguns em especial.
 
 ### 2. `Quantidade_de_Mulheres_no_curso_de_Engenharia.sql`
 **Problema:**  
@@ -24,6 +24,13 @@ No ambiente de trabalho atual, há um senso comum de que profissionais formados 
 
 **Análise:**  
 A análise demonstrou que o número de ingressantes no curso de Engenharia Mecânica aumentou até o ano de 2019, mas começou a cair após esse período. Isso abre espaço para uma investigação mais aprofundada sobre a oferta de cursos de Engenharia Mecânica no Brasil e possíveis razões para essa tendência.
+
+### 4. `Variação_ano_curso.sql`
+**Problema:**  
+Baseado nos 10 cursos com mais incritos, concluintes e vagas de acordo com pesoas atribuidos, busca de padrões para prever situações dos cursos
+
+**Análise:**  
+Os resultados mostraram que, embora o curso de Administração tenha um alto número de vagas, ingressantes e concluintes, há uma redução gradual na oferta dessas vagas. Contrariamente, o número de concluintes está aumentando, o que pode indicar uma potencial falta de vagas para esses profissionais no futuro.
 
 ## Tecnologias Utilizadas
 
