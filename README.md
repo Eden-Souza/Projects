@@ -15,8 +15,8 @@ Esta pasta contém projetos focados na análise de dados e na criação de dashb
 - **Gráficos de Barras Verticais:** Gráficos que ajudam a visualizar tendências e comparações ao longo do tempo ou entre diferentes categorias.
 - **Controles de Formulário:** Implementação de controles de formulário, como caixas de seleção, botões de opção e listas suspensas, para criar dashboards mais interativos e dinâmicos.
 
-### 1. `Consulta_SQL/`
-Esta pasta contém projetos focados na conulta em um banco de dados relacional por meio do SQL Server. Os principais componentes incluem:
+### 2. `Consulta_SQL/`
+Esta pasta contém projetos focados na consulta em um banco de dados relacional por meio do SQL Server. Os principais componentes incluem:
 
 Este projeto demonstra minhas habilidades na utilização do SQL para análise de dados, aplicando uma variedade de conceitos básicos e avançados:
 
@@ -45,13 +45,30 @@ Este projeto demonstra minhas habilidades na utilização do SQL para análise d
 
 Esses conceitos são fundamentais para a análise e manipulação de dados em SQL, permitindo a execução de consultas complexas e a obtenção de insights valiosos a partir de grandes volumes de informações. O uso combinado dessas técnicas demonstra minha capacidade de aplicar SQL de forma eficiente e estratégica para resolver problemas de negócios e análise de dados.
 
+### 3. `Projeto_Python/`
+Esta pasta contém projetos focados em análise de dados e visualizações utilizando **Python**. Os principais componentes incluem:
+
+Utilizo Python para análise de dados, aplicando diversas bibliotecas e ferramentas que permitem realizar desde o tratamento de grandes volumes de dados até a criação de visualizações detalhadas e informativas. As principais tecnologias e conceitos que utilizo são:
+
+- **Bibliotecas Principais:**
+  - **Pandas**: Para manipulação e análise de dados tabulares, permitindo o tratamento, transformação e limpeza de dados.
+  - **Numpy**: Para cálculos matemáticos e operações de arrays, essencial para tratar grandes volumes de dados de forma eficiente.
+  - **Datetime**: Utilizada para manipulação de datas e horas, facilitando o trabalho com séries temporais.
+  - **Matplotlib**: Para a criação de gráficos e visualizações customizadas.
+  - **Seaborn**: Para criação de gráficos avançados e estilizados, com foco em análise estatística visual.
+
+- **Tratamento de Dados:**
+  - Realizo a limpeza e tratamento de dados,  ajustes de tipos de dados e renomeação de colunas para melhorar a legibilidade corrigindo problemas no dataset
+
+- **Visualizações e Dashboards:**
+  - Criação de gráficos de barra, linha, dispersão e de calor para facilitar a análise de dados.
+  - Uso de **subplots** para comparar diversas variáveis ou categorias simultaneamente, ajudando na análise agregada.
+
+- **Análises Exploradas:**
+  - **Distribuição Temporal:** Análise da evolução dos dados ao longo do tempo.
 
 ### Futuras Expansões
 Este repositório está em constante desenvolvimento e novas pastas serão adicionadas para incluir exemplos de outras ferramentas e tecnologias, como:
-
-- **Python e Jupyter Notebooks [ Vs_Code ]:** Projetos envolvendo análise de dados com pandas, visualizações com matplotlib e seaborn, e machine learning com scikit-learn.
-- **Power BI:** Dashboards interativos e relatórios avançados para análise de dados empresariais.
-- **Tableau:** Visualizações dinâmicas para exploração de dados e storytelling.
 
 ## Como Explorar os Projetos
 Cada pasta contém um arquivo `README.md` específico que descreve os detalhes do projeto, incluindo o contexto do problema, as ferramentas utilizadas, e instruções de uso.
@@ -59,7 +76,7 @@ Cada pasta contém um arquivo `README.md` específico que descreve os detalhes d
 Sinta-se à vontade para explorar os projetos e conferir os diferentes exemplos de aplicação de técnicas de análise de dados e visualização. Se tiver alguma dúvida ou sugestão, entre em contato!
 
 ## Contato
-- **LinkedIn:** [Eden Souza]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/eden-souza-dados/))
+- **LinkedIn:** [Eden Souza](https://www.linkedin.com/in/eden-souza-dados/)
 
 Agradeço por visitar meu portfólio e espero que encontre os projetos úteis e inspiradores!
 Para dúvidas, sugestões de novas ferramentas ou formas de aplicação, fique à vontade para entrar em contato.
