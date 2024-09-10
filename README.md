@@ -15,7 +15,7 @@ Esta pasta contém projetos focados na análise de dados e na criação de dashb
 - **Gráficos de Barras Verticais:** Gráficos que ajudam a visualizar tendências e comparações ao longo do tempo ou entre diferentes categorias.
 - **Controles de Formulário:** Implementação de controles de formulário, como caixas de seleção, botões de opção e listas suspensas, para criar dashboards mais interativos e dinâmicos.
 
-### 1. `Projeto_SQL/`
+### 1. `Consulta_SQL/`
 Esta pasta contém projetos focados na conulta em um banco de dados relacional por meio do SQL Server. Os principais componentes incluem:
 
 Este projeto demonstra minhas habilidades na utilização do SQL para análise de dados, aplicando uma variedade de conceitos básicos e avançados:
