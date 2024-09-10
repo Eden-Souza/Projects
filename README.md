@@ -52,7 +52,6 @@ Este repositório está em constante desenvolvimento e novas pastas serão adici
 - **Python e Jupyter Notebooks [ Vs_Code ]:** Projetos envolvendo análise de dados com pandas, visualizações com matplotlib e seaborn, e machine learning com scikit-learn.
 - **Power BI:** Dashboards interativos e relatórios avançados para análise de dados empresariais.
 - **Tableau:** Visualizações dinâmicas para exploração de dados e storytelling.
-- **SQL Server:** Consultas complexas e otimização de banco de dados para análise de dados estruturados.
 
 ## Como Explorar os Projetos
 Cada pasta contém um arquivo `README.md` específico que descreve os detalhes do projeto, incluindo o contexto do problema, as ferramentas utilizadas, e instruções de uso.
