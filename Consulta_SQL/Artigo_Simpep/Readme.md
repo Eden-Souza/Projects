@@ -42,7 +42,7 @@ Este projeto demonstra minhas habilidades no uso do SQL, utilizando conceitos b�
 - **Comandos Básicos:** `SELECT`, `FROM`, `WHERE`.
 - **Operações Avançadas:** `JOIN`, `DISTINCT`, `HAVING`, `UNION`, `GROUP BY`.
 - **Funções de Agregação:** `SUM`, `COUNT`, `AVG`, e o uso de `COALESCE` para manipulação de valores nulos.
-- **Operadores Lógicos:** `AND`, `ON`, `AS` para renomear colunas e criar alias.
+- **Operadores Lógicos:** `AND`, `ON`, `AS`.
 
 Este projeto destaca minha capacidade de aplicar conceitos de SQL para a resolução de problemas complexos de análise de dados, demonstrando minha proficiência na utilização de SQL Server para explorar e identificar padrões em grandes conjuntos de dados.
 
