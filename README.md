@@ -59,7 +59,6 @@ Cada pasta contém um arquivo `README.md` específico que descreve os detalhes d
 Sinta-se à vontade para explorar os projetos e conferir os diferentes exemplos de aplicação de técnicas de análise de dados e visualização. Se tiver alguma dúvida ou sugestão, entre em contato!
 
 ## Contato
-- **Email:** edensouza02@gmail.com
 - **LinkedIn:** [Eden Souza]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/eden-souza-dados/))
 
 Agradeço por visitar meu portfólio e espero que encontre os projetos úteis e inspiradores!
