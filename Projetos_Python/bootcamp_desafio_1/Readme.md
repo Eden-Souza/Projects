@@ -14,6 +14,15 @@ aplicação de conceitos de **Data Science**.
 - **Pandas**: Biblioteca utilizada para manipulação de DataFrames e extração dos dados gerados pela IA.
 - **ChatGPT**: Utilizado para a geração de clientes fictícios e para fornecer recomendações de produtos bancários.
 
+## ⚠️ Aviso Importante
+
+Para rodar o projeto corretamente, certifique-se de que os dois arquivos CSV necessários estão disponíveis na aba **dataset**:
+
+- `recomendacoes_financeiras.csv`: Contém as recomendações de produtos bancários geradas pela IA.
+- `user_data.csv`: Contém os dados dos usuários, incluindo informações como nome, limite da conta e limite de crédito.
+
+Esses arquivos são essenciais para a execução do pipeline ETL e devem estar no diretório apropriado para que o código funcione corretamente.
+
 ## 🧠 IA Generativa: Criação dos Clientes e Recomendações de Produtos
 
 A primeira parte do projeto consistiu na geração de um banco de dados com informações 
