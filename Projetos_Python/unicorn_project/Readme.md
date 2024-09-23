@@ -23,7 +23,7 @@ O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
 ### Tratamento de Dados
 
 O dataset utilizado se encontra no repositório com o nome: `unicorns till sep 2022.csv` e pode ser baixado no [Kaggle](https://www.kaggle.com/) atualizado ou
-pode ser encontrado na versão que eu utilizei no diretório de nome `Database` . Os dados foram tratados através das seguintes etapas:
+pode ser encontrado na versão que eu utilizei no diretório de nome `Dataset` . Os dados foram tratados através das seguintes etapas:
 
 - Verificação da existência de valores nulos e inconsistentes utilizando gráficos de calor para identificar lacunas e caso impacta-se na análise corrigir este ponto.
 - Ajuste de tipos de dados corretos para as colunas, como conversão de datas.
