@@ -1,4 +1,0 @@
-user_id;name;account_id;account_number;agency;account_limit;card_id;card_number;card_limit
-user_001;Queryn;acc_001;12345678;1;5000;card_001;1111-2222-3333-4444;10000
-user_002;Dasherson;acc_002;87654321;2;7000;card_002;5555-6666-7777-8888;15000
-user_003;Pivot;acc_003;56781234;3;6000;card_003;9999-0000-1111-2222;12000
