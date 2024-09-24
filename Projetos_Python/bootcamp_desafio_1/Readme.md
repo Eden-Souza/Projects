@@ -79,4 +79,4 @@ Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
 
 ## 📈 Conclusão
 
-Este projeto foi uma ótima oportunidade de aplicar conceitos de **Data Science** e **Data Engineering**, combinando ferramentas poderosas como **IA Generativa** e **ETL**, para criar uma solução que enriquece dados fictícios e agrega valor aos clientes de maneira personalizada. Ao mesmo tempo, consegui consolidar conhecimentos importantes em Python, Pandas e SQL.
+Este projeto foi uma ótima oportunidade de aplicar conceitos de **Data Science** e **Data Engineering**, combinando ferramentas poderosas como **IA Generativa** e **ETL**, para criar uma solução que enriquece dados fictícios e agrega valor aos clientes de maneira personalizada. Ao mesmo tempo, consegui consolidar conhecimentos importantes em Python, Pandas
