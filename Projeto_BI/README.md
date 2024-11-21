@@ -20,7 +20,7 @@ O objetivo principal foi construir um relatório interativo e funcional que poss
 
 
 ### 📈 Página 1: **Análise Geral de Vendas**
-- **Cartões de Métricas**: Exibem informações-chave como:
+- **Cartões de Métricas**: Exibem informações chave como:
   - Total de vendas.
   - Unidades vendidas.
   - Descontos concedidos.
