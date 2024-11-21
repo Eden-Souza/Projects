@@ -67,6 +67,26 @@ Utilizo Python para análise de dados, aplicando diversas bibliotecas e ferramen
 - **Análises Exploradas:**
   - **Distribuição Temporal:** Análise da evolução dos dados ao longo do tempo.
 
+### 4. `Projeto_BI/`
+Esta pasta contém projetos desenvolvido em **Power BI** com foco em visualização de dados.
+Os principais destaques incluem:
+
+- **Visualizações Interativas**:
+  - Gráficos de área empilhada, pizza, barras clusterizadas, treemap, radar e mapa geográfico.
+  - Segmentação de dados por período e hierarquia.
+  - Gráficos dinâmicos com drill-down.
+
+- **Ferramentas de Navegabilidade**:
+  - Botões para alternar entre páginas, redefinir filtros e retornar à página inicial.
+  - Dicas de ferramenta personalizadas que exibem visualizações diretamente nos gráficos.
+
+- **Análise Financeira**:
+
+
+- **Acessibilidade Mobile**:
+  - Relatórios otimizados para dispositivos móveis, garantindo usabilidade e acessibilidade em qualquer plataforma.
+
+
 ### Futuras Expansões
 Este repositório está em constante desenvolvimento e novas pastas serão adicionadas para incluir exemplos de outras ferramentas e tecnologias, como:
 
