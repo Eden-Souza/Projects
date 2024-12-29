@@ -1,0 +1,14 @@
+{
+  "day": 0,
+  "mnth": 0,
+  "year": 0,
+  "season": 0,
+  "holiday": 0,
+  "weekday": 0,
+  "workingday": 0,
+  "weathersit": 0,
+  "temp": 0,
+  "atemp": 0,
+  "hum": 0,
+  "windspeed": 0
+}
