@@ -10,4 +10,5 @@ Chegou a hora de você construir um portfólio ainda mais rico e impressionar fu
 
 Resultado imagem 1 - ![image](https://github.com/user-attachments/assets/2c25cb23-5a16-40be-ba21-87c02a09450f)
 
-Resultado imagem 2 - 
+Resultado imagem 2 - ![image](https://github.com/user-attachments/assets/6aaf1b51-47f9-44c8-8b13-9d7ac4ce4f00)
+
