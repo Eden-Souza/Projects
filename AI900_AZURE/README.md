@@ -45,8 +45,6 @@ Como parte do aprendizado prático para a certificação, foi realizado o **Desa
 ---
 
 ## 🌟 **Conclusão**
-A certificação **AI-900** oferece um ótimo ponto de partida para quem quer explorar a **Inteligência Artificial**, com foco em conceitos e práticas. O **Desafio 1** complementa esse aprendizado com uma abordagem prática e contextualizada, utilizando ferramentas da Microsoft para resolver problemas reais com **Machine Learning**.
-
-> "Com essa base sólida, o próximo passo é continuar explorando aplicações de IA e avançar para projetos mais complexos, aprimorando as habilidades técnicas e estratégicas na área."
+A certificação **AI-900** oferece um ótimo ponto de partida para quem quer explorar a **Inteligência Artificial**, com foco em conceitos e práticas. 
 
 ---
