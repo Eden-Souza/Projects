@@ -57,7 +57,7 @@ class SistemaBancario:
             usuario = self.filtro_usuario[cpf]
             agencia = self.agencia
             conta = self.numero_conta +1
-            cadastro = {'Usuario':usuario,'Agencia':agencia, 'Conta':conta}
+            cadastro = {'Usuario':usuario,'Agencia':agencia, 'Conta':conta, 'Saldo': Saldo}
             self.numero_conta+=1
             return print(cadastro)
         else:
