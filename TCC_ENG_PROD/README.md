@@ -1,4 +1,4 @@
-# Conclusão do Projeto do Trabalho de conclusão de curso para o curos de Engenharia de Produção
+# Conclusão do Trabalho de conclusão de curso para o curos de Engenharia de Produção
 
 O objetivo deste projeto foi comparar quatro métodos de investimento — **Barsi**, **Basin**, **Graham** e **Greenblatt** — utilizando dados históricos e métricas relevantes para avaliar o desempenho de cada estratégia em um período de 10 anos. A análise considerou uma abordagem previdenciária, onde o foco foi avaliar a possibilidade de substituir o INSS por uma carteira de ações como alternativa para planejamento de aposentadoria.
 
